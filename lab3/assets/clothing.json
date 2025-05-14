@@ -1,0 +1,38 @@
+{
+  "category": "Одяг",
+  "items": [
+    {
+      "id": 1,
+      "name": "Футболка",
+      "shortname": "tshirt",
+      "description": "Зручна бавовняна футболка для щоденного використання. Lorem ipsum dolor sit amet.",
+      "price": "₴520",
+      "image": "https://place-hold.it/300x500?text=Футболка&italic"
+    },
+    {
+      "id": 2,
+      "name": "Джинси",
+      "shortname": "jeans",
+      "description": "Класичні сині джинси, які пасують до будь-якого стилю. Lorem ipsum dolor sit amet.",
+      "price": "₴1200",
+      "image": "https://place-hold.it/300x500?text=Джинси&italic"
+    },
+    {
+      "id": 3,
+      "name": "Куртка",
+      "shortname": "jacket",
+      "description": "Тепла зимова куртка з водонепроникним покриттям. Ідеально підходить для холодних днів.",
+      "price": "₴1800",
+      "image": "https://place-hold.it/300x500?text=Куртка&italic"
+    },
+    {
+      "id": 4,
+      "name": "Черевики",
+      "shortname": "shoes",
+      "description": "Комфортні шкіряні черевики для повсякденного носіння. Lorem ipsum dolor sit amet.",
+      "price": "₴1450",
+      "image": "https://place-hold.it/300x500?text=Черевики&italic"
+    }
+  ]
+}
+
